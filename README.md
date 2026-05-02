@@ -3,6 +3,17 @@
 
 > Aplicação desktop para identificação de modelos FOPDT e projeto de controladores PID com interface gráfica interativa.
 
+---
+
+## Integrantes
+
+| Nome | GitHub |
+|------|--------|
+| Guilherme Felipe | [@Gpatinho](https://github.com/Gpatinho) |
+| Clara de Lima Azevedo | [@claralimaze](https://github.com/claralimaze) |
+| TIAGO RODRIGUES GREGÓRIO | [@tiagogregorio](github.com/tiagogregorio) |
+---
+
 ## Métodos Implementados
 
 ### Identificação de Sistemas
@@ -78,7 +89,7 @@ C213/
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/
+git clone https://github.com/Gpatinho/C213.git
 cd C213
 ```
 
