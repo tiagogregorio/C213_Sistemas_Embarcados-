@@ -78,7 +78,7 @@ C213/
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/Gpatinho/C213.git
+git clone https://github.com/
 cd C213
 ```
 
