@@ -78,7 +78,7 @@ C213/
 
 **1. Clone o repositório**
 ```bash
-git clone https://github.com/
+git clone https://github.com/tiagogregorio/C213_Sistemas_Embarcados-.git
 cd C213
 ```
 
@@ -93,9 +93,15 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-**3. Instale as dependências**
+**3. Instale as dependências e configurações de segurança**
 ```bash
 pip install -r requirements.txt
+
+Configuração de Variáveis (Segurança)
+Para proteger suas credenciais, configure o arquivo de ambiente:
+Copie o arquivo .env.example para um novo arquivo chamado .env.
+Abra o .env e preencha com suas chaves e dados de acesso.
+Atenção: Nunca compartilhe seu arquivo .env!
 ```
 
 **4. Execute a aplicação**
